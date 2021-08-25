@@ -1,5 +1,5 @@
 # -*- coding: utf-8
-# author by angga kurniawan
+# author by Kyy
 import os
 try:
 	import requests
